@@ -2,6 +2,7 @@
   "name": "amys-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://asterrypm.github.io/clicky1/",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
@@ -14,3 +15,4 @@
     "eject": "react-scripts eject"
   }
 }
+
