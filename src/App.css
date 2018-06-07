@@ -1,6 +1,37 @@
-#images {
-    padding:4px;
-    border-color: blue;
-    
+.imgs {
+    padding: 10px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #079DCF;
+    background-color: burlywood;
+    width: 200px;
+    height: 200px;
+
 }
 
+
+.jtron {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 80px;
+    background-color: #079DCF;
+    text-align: center;
+    border-color: black;
+}
+
+h1 {
+    padding: 20px;
+}
+
+
+#content {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+div.score {
+    font-size: 20px;
+    font-weight: bold; 
+    text-align: right;
+    padding: 10px 20px 10px 0px;
+
+}
